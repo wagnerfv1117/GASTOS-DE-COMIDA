@@ -1,5 +1,5 @@
 # GASTOS-DE-COMIDA
-Repositorio, donde se analiza a través de una base de datos, como se analiza los gastos diarios en comida.
+Repositorio, donde se analiza a través de una base de datos, los gastos diarios en comida.
 
 # ¡RECOMENDACIONES PARA SU USO!
 
